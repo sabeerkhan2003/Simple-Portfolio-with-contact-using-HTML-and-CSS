@@ -10,6 +10,7 @@ body{
     background:black;
     color: white;
     padding: 20px;
+    border-radius: 10px;
     
 }
 .section-one__biodata{
@@ -43,6 +44,8 @@ body{
     display: inline-block;
     background-color:rgb(170, 92, 92);
     color: white;
+    padding: 20px;
+    border-radius: 10px;
 }
 .section-five{
     background-color: black;
@@ -55,4 +58,23 @@ body{
 }
 .section-three__desc li,.section-four__desc li{
     list-style:none;
+}
+.section-three{
+    background-color:#6462fd;
+    color: black;
+    display: inline-block;
+    padding:20px;
+    height: 200px;
+    border-radius: 10px;
+    vertical-align: top;
+}
+.section-four{
+    background-color:#fe7517;
+    color: black;
+    display: inline-block;
+    padding:20px;
+    height: 200px;
+    border-radius: 10px;
+    vertical-align: top;
+
 }
